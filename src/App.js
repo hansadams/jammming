@@ -17,7 +17,7 @@ function App() {
 
     getToken();
 
-  }, [token]);
+  }, []);
 
 
   return (
