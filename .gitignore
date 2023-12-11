@@ -24,6 +24,5 @@ yarn-error.log*
 
 .env
 /server
-tailwind.config.js
 src/components/WebPlayback.jsx
 
