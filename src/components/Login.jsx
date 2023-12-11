@@ -13,7 +13,7 @@ export default function Login() {
         <p className="text-center text-white">Create Spotify playlists with our awesome app.</p>
       </div>
       <br />
-      <a className="text-center" href="/auth/login">
+      <a className="text-center" href="https://jammming-ju2u.onrender.com/auth/login">
         <button
           type="submit"
           className="justify-center rounded-md bg-green-600 px-10 py-5 text-3xl font-semibold leading-6 text-white shadow-sm hover:bg-green-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
