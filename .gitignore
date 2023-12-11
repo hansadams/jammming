@@ -26,4 +26,4 @@ yarn-error.log*
 /server
 tailwind.config.js
 src/components/WebPlayback.jsx
-src/setipProxy.js
+
