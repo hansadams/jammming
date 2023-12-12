@@ -98,7 +98,7 @@ export default function CreatePlaylist(props) {
       <div className="min-w-0 flex-1 py-10 text-center">
         <SearchBar onSearch={search} />
       </div>
-      <div className="grid sm:grid-cols-2 gap-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-10">
         <div>
           <SearchResults searchResults={searchResults} onAdd={addTrack} />
         </div>
