@@ -9,7 +9,7 @@ const TrackList = (props) => {
         return (
           <Track
             track={track}
-            key={track.id}
+            key={key}
             onAdd={props.onAdd}
             isRemoval={props.isRemoval}
             onRemove={props.onRemove}
